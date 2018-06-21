@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 #?
 # wait-file - Waits for a file to be present
 # 
